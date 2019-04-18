@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (feature_explore_util) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.1/python_stubs/837005744" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-darwin" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-mac" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/anaconda2/envs/feature_explore_util/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.1/python_stubs/837005744" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
