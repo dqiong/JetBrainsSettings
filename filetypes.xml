@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="feature_origin_old" type="PLAIN_TEXT" />
       <mapping ext="feat" type="PLAIN_TEXT" />
+      <mapping ext="gbdt" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
