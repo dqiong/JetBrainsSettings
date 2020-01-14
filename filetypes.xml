@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="feature_origin_old" type="PLAIN_TEXT" />
+      <mapping pattern="hive" type="PLAIN_TEXT" />
       <mapping pattern="f2" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
+      <mapping pattern="feature_origin_old" type="PLAIN_TEXT" />
       <mapping ext="feat" type="PLAIN_TEXT" />
       <mapping ext="gbdt" type="PLAIN_TEXT" />
       <mapping ext="lr" type="PLAIN_TEXT" />
