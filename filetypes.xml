@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="scpFeature" type="PLAIN_TEXT" />
       <mapping pattern="hive" type="PLAIN_TEXT" />
       <mapping pattern="f4" type="PLAIN_TEXT" />
       <mapping pattern="f3" type="PLAIN_TEXT" />
