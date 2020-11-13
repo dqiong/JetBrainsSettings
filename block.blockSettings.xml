@@ -2,7 +2,7 @@
   <component name="Blocker.Block.BlockSettings">
     <option name="autoCheckBlock" value="true" />
     <option name="blockInterval" value="Every 15 Minutes" />
-    <option name="lastExecution" value="1605248344697" />
-    <option name="nextExecution" value="1605249244697" />
+    <option name="lastExecution" value="1605249305231" />
+    <option name="nextExecution" value="1605250205231" />
   </component>
 </application>
