@@ -9,7 +9,6 @@
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="feature_origin_old" type="PLAIN_TEXT" />
       <mapping ext="feat" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gbdt" type="PLAIN_TEXT" />
       <mapping ext="lr" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
