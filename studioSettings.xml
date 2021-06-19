@@ -2,7 +2,6 @@
   <component name="StudioSettings">
     <option name="generalSettings">
       <GeneralSettings>
-        <option name="enableInternalFeatures" value="false" />
         <option name="macAddress" value="6C-96-CF-D9-85-A3" />
       </GeneralSettings>
     </option>
