@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*xml</mask>
-    <mask>*.xml</mask>
     <mask>*.htm</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
