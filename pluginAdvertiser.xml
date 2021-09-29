@@ -128,6 +128,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.csv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cvp">
           <value>
             <plugin>
@@ -868,6 +876,47 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.psv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1002,6 +1051,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tab">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -1079,6 +1136,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tsv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ttf">
           <value>
             <plugin>
@@ -1094,6 +1159,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ui">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
             </plugin>
           </value>
         </entry>
@@ -1312,6 +1385,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="buildout.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="PythonCore" />
+              <option name="myPluginName" value="Python Community Edition" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1485,6 +1566,11 @@
                       <FeaturePluginData displayName="MaxCompute Java" pluginName="OdpsStudio" pluginId="OdpsStudio" />
                     </value>
                   </entry>
+                  <entry key="OdpsPythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="MaxCompute Python" pluginName="OdpsStudio" pluginId="OdpsStudio" />
+                    </value>
+                  </entry>
                   <entry key="OdpsQLRunnerConfigurationType">
                     <value>
                       <FeaturePluginData displayName="MaxCompute SQL" pluginName="MaxCompute Studio" pluginId="OdpsStudio" />
@@ -1493,6 +1579,11 @@
                   <entry key="OdpsRemoteDebugConfigurationType">
                     <value>
                       <FeaturePluginData displayName="MaxCompute Remote Debug" pluginName="OdpsStudio" pluginId="OdpsStudio" />
+                    </value>
+                  </entry>
+                  <entry key="PythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="Remote">
@@ -1510,9 +1601,19 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
+                  <entry key="Tox">
+                    <value>
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
+                    </value>
+                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="tests">
+                    <value>
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                 </map>
@@ -1525,6 +1626,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
+                    </value>
+                  </entry>
                   <entry key="android">
                     <value>
                       <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -1538,6 +1644,11 @@
                   <entry key="apk">
                     <value>
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="buildout-python">
+                    <value>
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="java-gradle">
