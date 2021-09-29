@@ -1,18 +1,22 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="scpFeature" type="PLAIN_TEXT" />
-      <mapping pattern="hive" type="PLAIN_TEXT" />
-      <mapping pattern="f4" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="f3" type="PLAIN_TEXT" />
       <mapping pattern="f2" type="PLAIN_TEXT" />
+      <mapping pattern="f4" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
+      <mapping pattern="scpFeature" type="PLAIN_TEXT" />
       <mapping pattern="feature_origin_old" type="PLAIN_TEXT" />
-      <mapping ext="feat" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
-      <mapping ext="gbdt" type="PLAIN_TEXT" />
-      <mapping ext="lr" type="PLAIN_TEXT" />
+      <mapping pattern="hive" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="lr" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
+      <mapping ext="feat" type="PLAIN_TEXT" />
+      <mapping ext="gbdt" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
